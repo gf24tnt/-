@@ -1,1 +1,5 @@
-include
+include "studio"
+main()
+{
+   printf("hello world!")
+}
